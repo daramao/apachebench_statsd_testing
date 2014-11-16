@@ -1,4 +1,3 @@
-
 ### Level 1
 
 * <strong>Sign up for Datadog, get the agent reporting metrics from your local machine.<br>Answer:</strong> I have set up the agent reporting metrics for my local machine: `host:Daras-MacBook-Air-2.local`
@@ -126,4 +125,3 @@ My code for random_test.py:
 * <strong>Visualize this new metric on Datadog, send us the link.<br> Answer: </strong>I ran a few random tests, see attached [dashboard](https://app.datadoghq.com/dash/dash/26611?from_ts=1408221072790&to_ts=1408221687265&tile_size=m) of graphs.
 
 ![agentCheck](level5.png)
-
